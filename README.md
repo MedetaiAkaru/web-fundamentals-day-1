@@ -11,8 +11,8 @@ Create a new webpage on a subject that you're interested in. The page should **N
   - A page footer containing info about you or the sit
   - Use the sketch below to guide you towards the layout and content you are trying to achieve. *Please note that this is just a sketch - you can choose the colours, fonts and images that you want to use in the page.*
 
-  <a href="blog-sketch-week-1.png" target="blank">
-    <img src="blog-sketch-week-1.png" style="border: 1px solid #bababa;">
+  <a href="blog-sketch-day-1.png" target="blank">
+    <img src="blog-sketch-day-1.png" style="border: 1px solid #bababa;">
   </a>
   
 ## For Day 2
@@ -28,8 +28,8 @@ Revisit the webpage you created in yesterday's homework assignment.
   - Add at least three more articles and then convert them to a grid, so that you show 3 articles per row in a box layout using CSS Flexbox.
 
   
-  <a href="blog-sketch-week-2.png" target="blank">
-    <img src="blog-sketch-week-2.png" style="border: 1px solid #bababa;">
+  <a href="blog-sketch-day-3.png" target="blank">
+    <img src="blog-sketch-day-3.png" style="border: 1px solid #bababa;">
   </a>
 
 ## For Day 4
